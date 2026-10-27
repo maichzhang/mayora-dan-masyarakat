@@ -1,0 +1,7 @@
+{
+  "name": "mayora-dan-masyarakat",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Weblog akademik Teknik Public Relation — siap deploy ke Vercel",
+  "scripts": { "dev": "node server.cjs" }
+}
